@@ -108,5 +108,6 @@ document.write(resultado11.length);
 
 //.trimEnd() : elimina los espacios del final
 
-let resultado12 = 
+let resultado12 = cadena13 + `Hola bb`;
+document.write(resultado12 + `<br>`);
 
