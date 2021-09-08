@@ -54,7 +54,7 @@
 
 //ABSTRACCIÓN------------------------------------------------------------------------------------------------------------
 
-//Cuando se habla de ABSTRACCIÓN es reducir lo más posible el objeto. Hacerlo lo más complejo que se pueda. Es decir, tener lo más importante del objeto resumido.
+//Cuando se habla de ABSTRACCIÓN es reducir lo más posible el objeto. Hacerlo lo más simple que se pueda. Es decir, tener lo más importante del objeto resumido.
 
 //MODULARIDAD----------------------------------------------------------------------------------------------------------------
 

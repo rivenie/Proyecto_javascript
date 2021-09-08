@@ -117,7 +117,7 @@ document.write(frase);*/
 */
 
 //OPERADORES LOGICOS---------------------------------------------------------------------------------------------------------
-//Devuelven un resultado a partir que se cumpla o no una condición. Su resultado de booleano y sus operandos son valores lógidos
+//Devuelven un resultado a partir que se cumpla o no una condición. Su resultado es booleano y sus operandos son valores lógicos
 //o asimilables a ellos.
 
 //&& AND
